@@ -1,11 +1,11 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "notes": "hh",
   "pub_date": "2025-10-17T15:07:47Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdjlwbnY3Nlk4TVZ2SHpoV2wvQThFWE9NdFF1T2xEb1VTVzZoUSs1dkh3amNaQXVTQ0hEWHlGVlRYdHFYZkV3RjU3WXBQQmQ0MGFMbmtVSklDL0tGRWF3V2Iva1Y2aXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNTg4NDEzCWZpbGU6aW1zXzAuMC4yX3g2NC1zZXR1cC5leGUKNFpRR05iR05WSG1MaGt5Rnp3MlZlbUdlWHUrZW9WS2RzeXhJamFoeFhCUjhJLy84OVBaaG90N2ZFM01lbE9jVjY2bG5QR0VKcURvanMrKzFmTGwrQ0E9PQo=",
-      "url": "https://cdn.tecbricks.com/downloads/ims_0.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdjlwbnY3Nlk4TVo3Unk5aE5TZGlEZXVkRjc2azZJeTluUlMzVDhRczNiNHZwRldpWVZNaVNQWk96VkVuQnI5OWtmdHNFdGM0cVdXcGpCV3QzWmJyeTZNK0h2d0YvcmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNzYwNzk5CWZpbGU6aW1zXzAuMC4zX3g2NC1zZXR1cC5leGUKa0NKUnFEcElMYWJNcGQzWWFkTWwyWDFqZjF3QmJJNythRmpjMWhIMGxXVzNubEZJc2YzRHVKT2tEYXpqcXZUVmdpU1pxdThBZlRSOTAzWHZzaElIRHc9PQo=",
+      "url": "https://cdn.tecbricks.com/downloads/ims_0.0.3_x64-setup.exe"
     }
   }
 }
